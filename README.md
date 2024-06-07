@@ -1,7 +1,8 @@
 # Hi there:
 I'm William Moura, Web Developer on Febrafar
 
-I`m currently working <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" with="40px" height="40px"/>
+I`m currently working on 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" with="40px" height="40px"/>
 
 
 ## 🌐Socials
